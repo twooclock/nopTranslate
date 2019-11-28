@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nopTranslate", "nopTranslate.csproj", "{1A58E9C8-C02D-44EB-85E3-CDD376888FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A58E9C8-C02D-44EB-85E3-CDD376888FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A58E9C8-C02D-44EB-85E3-CDD376888FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A58E9C8-C02D-44EB-85E3-CDD376888FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A58E9C8-C02D-44EB-85E3-CDD376888FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65FAE019-0419-464B-9E97-D1F7570279C8}
+	EndGlobalSection
+EndGlobal
